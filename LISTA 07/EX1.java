@@ -1,10 +1,7 @@
 import java.util.Scanner;
 
 public class EX1 {
-
-    // Faça um programa que receba do usuário dois vetores, A e B, com 10 números inteiros cada.
-    //Crie um vetor denominado C calculando C = A – B*A. Mostre na tela os dados do vetor C.
-
+    
     public static void main(String[] args) {
         int a[] = new int[10];
         int b[] = new int[10];
